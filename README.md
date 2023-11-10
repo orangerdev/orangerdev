@@ -9,6 +9,7 @@ A passionate and experienced senior WordPress engineer with over 15 years of han
 *   🌍  I'm based in Jakarta, Indonesia (GMT+7)
 *   🚀  I'm currently working on [Docquity](http://docquity.com) as Senior Website Engineer
 *   🤝  I'm open to collaborating on creating custom WordPress and WooCommerce plugins
+*   🧠  I'm currently learning Google AppScript!
 *   ⚡  Part time scuba diver, love to dive in Bali and Maluku!### Skills 
 
 ### 🔧 Technologies & Tools
