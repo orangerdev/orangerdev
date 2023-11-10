@@ -33,7 +33,7 @@ When I'm not coding, you can find me grooving to funky tunes, exploring new coff
 - Sold over 8000+ copies of a WordPress Membership Plugin, which you can check out [here](https://sejoli.co.id).
 
 ### 📫 Get in Touch
-- LinkedIn: [Ridwan Arifandi][https://www.linkedin.com/in/ridwan-arifandi-80150729/]
+- LinkedIn: [Ridwan Arifandi](https://www.linkedin.com/in/ridwan-arifandi-80150729/)
 - Email: orangerdigiart at gmail dot   com
 - Whatsapp: plus 628 eleven 24 eleven 915
 
