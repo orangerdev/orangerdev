@@ -13,7 +13,7 @@ A passionate and experienced senior WordPress engineer with over 15 years of han
 *   ⚡  Part time scuba diver, love to dive in Bali and Maluku!### Skills 
 
 ### 🔧 Technologies & Tools
-- **Frontend:** React.js, Next.js, HTML5, CSS3, JavaScript
+- **Frontend:** React.js, Next.js, HTML5, CSS3, JavaScript, TailwindCSS, SASS/LESS, Bootstrap, jQuery
 - **Backend:** WordPress, PHP, Node.js
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, Docker, Webpack
