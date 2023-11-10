@@ -14,9 +14,9 @@ A passionate and experienced senior WordPress engineer with over 15 years of han
 
 ### 🔧 Technologies & Tools
 - **Frontend:** React.js, Next.js, HTML5, CSS3, JavaScript, TailwindCSS, SASS/LESS, Bootstrap, jQuery
-- **Backend:** WordPress, PHP, Node.js
+- **Backend:** WordPress, WooCommerce, PHP, Node.js
 - **Databases:** MySQL, MongoDB
-- **Tools:** Git, Docker, Webpack
+- **Tools:** Git, Docker, Webpack, Postman
 - **Others:** REST API, Github CoPilot
 
 ### 💡 What I Do
