@@ -13,10 +13,10 @@ A passionate and experienced senior WordPress engineer with over 15 years of han
 *   ⚡  Part time scuba diver, love to dive in Bali and Maluku!
 
 ### 🔧 Technologies & Tools
-- **Frontend:** React.js, Next.js, HTML5, CSS3, JavaScript, TailwindCSS, SASS/LESS, Bootstrap, jQuery
+- **Frontend:** React.js, Next.js, HTML5, CSS3, JavaScript ES6, TailwindCSS, SASS/LESS, Bootstrap, jQuery
 - **Backend:** WordPress, WooCommerce, PHP, Node.js
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, Docker, Webpack, Postman
+- **Databases:** MySQL, MongoDB, Google Spreadsheet
+- **Tools:** Git, Docker, Webpack, Postman, OpenAI
 - **Others:** REST API, Github CoPilot
 
 ### 💡 What I Do
@@ -24,6 +24,8 @@ I breathe life into websites and applications with a touch of elegance and innov
 
 ### 🌟 What Sets Me Apart
 My specialty is crafting custom WordPress and WooCommerce solutions that can't be handled by off-the-shelf plugins. With my extensive experience, I transform complex requirements into elegant and functional solutions, ensuring my clients' websites stand out in the digital landscape. Besides my technical prowess, I possess excellent leadership skills, driving teams to success and fostering collaboration.
+
+Not only that, my current endeavor involves developing Google Spreadsheets with AppScript, a fascinating project that allows me to integrate it with OpenAI. This integration has opened up a plethora of features, including data crawling and analytics, which I find incredibly exciting.
 
 ### 🎵 Let's Get Funky!
 When I'm not coding, you can find me grooving to funky tunes, exploring new coffee shops, and diving into the world of sci-fi literature. Feel free to check out my repositories and don't hesitate to reach out if you're interested in collaboration, learning, or just a good old tech chat!
